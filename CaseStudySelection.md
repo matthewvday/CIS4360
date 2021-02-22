@@ -1,5 +1,0 @@
-# Option #11: Netflix: Best development workflow for a microservice Team.
-
-### Matthew Day
-
-I would like to choose this case study because I am quite interested in the processes and day to day tasks of a software engineer. I have not had experience with projects outside of the classroom and I think it'd be helpful to learn an influencial company's steps to creating their well known product. I'm interested in the microservice architecture of such a product and what tools were used to create it. I am also interested in the challenges that they might have run into trying to perfect their process.
